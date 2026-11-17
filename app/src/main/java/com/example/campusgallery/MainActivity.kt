@@ -105,7 +105,7 @@ fun CampusGallery() {
             color = Color.White
         )
 
-        Spacer(modifier = Modifier.height(24.dp))
+        Spacer(modifier = Modifier.height(25.dp))
 
         Row(
             modifier = Modifier.fillMaxWidth(),
